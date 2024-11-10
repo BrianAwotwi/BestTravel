@@ -1,0 +1,110 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "./images/sydneyaus.jpeg",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge.",
+          "days": 9,
+          "price": 2000,
+          "activity": "Medium"
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "./images/melbourneaus.jpeg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods.",
+          "days": 9,
+          "price": 1800,
+          "activity": "Medium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "./images/tokyojap.jpeg",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture.",
+          "days": 12,
+          "price": 1900,
+          "activity": "Medium"
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "./images/kyotojap.jpeg",
+          "description": "Known for its historic temples, gardens, and traditional tea houses.",
+          "days": 14,
+          "price": 2400,
+          "activity": "High"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "./images/riobra.jpeg",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks.",
+          "days": 13,
+          "price": 3300,
+          "activity": "High"
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "./images/saobra.jpeg",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife.",
+          "days": 26,
+          "price": 5200,
+          "activity": "High"
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "./images/angkorwat.jpeg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world.",
+      "days": 1,
+      "price": 500,
+      "activity": "Low"
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "./images/tajmahal.jpeg",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture.",
+      "days": 1,
+      "price": 800,
+      "activity": "Low"
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "./images/borabora.jpeg",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows.",
+      "days": 2,
+      "price": 1000,
+      "activity": "Medium"
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "./images/copacabana.jpeg",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views.",
+      "days": 2,
+      "price": 700,
+      "activity": "Low"
+    }
+  ]
+}
